@@ -1,0 +1,15 @@
+.home-header {
+    width: 100%;
+    height: 100px;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-color: aqua;
+    color: hotpink;
+    transition: background-color 0.5s;
+}
+
+.home-header:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
