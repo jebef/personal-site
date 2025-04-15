@@ -8,6 +8,11 @@ export default function LifeLog()
     return (
         <div className="entry-container">
             <LogEntry 
+                title="Monday April 14, 2025"
+                text="Spent the day at Precita, upstairs remodel. A fun day of solo building. Grabbed groceries and a gift for Audrey 
+                on my walk home. Worked on fun website shit for the rest of the afternoon/evening. Album of the day: Fortress 'round My Heart - Ida Maria."
+            />
+            <LogEntry 
                 title="Thursday Feb 13, 2025"
                 text="Met the boss at York, loaded up our core gear, and bounced to Lombard. WAIT! Beronio first to pick up a 4ft piece 
                 of treated siding. Rain today, strong winds, gray skies. Simple garage door fix. Stopped at TAP plastics, first visit. 

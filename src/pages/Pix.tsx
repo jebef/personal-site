@@ -28,6 +28,15 @@ export default function Pix() {
                     { id: "19", src: "/images/pix/gz-one/pix19.jpg", alt: "bedsheets", caption: "York St. bedsheets." }
                 ]}
             />
+
+<Gallery
+                images={[
+                    { id: "0", src: "/images/pix/dive-into-2025/dive-into-2025-front.png", alt: "bedsheets", caption: "York St. bedsheets." },
+                    { id: "1", src: "/images/pix/dive-into-2025/dive-into-2025-back.png", alt: "bedsheets", caption: "York St. bedsheets." },
+                    { id: "2", src: "/images/pix/dive-into-2025/film-dive.jpg", alt: "bedsheets", caption: "York St. bedsheets." },
+                    { id: "3", src: "/images/pix/dive-into-2025/film-bridge.jpg", alt: "bedsheets", caption: "York St. bedsheets." },
+                ]}
+            />
         </div>
     )
 }
